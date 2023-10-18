@@ -20,7 +20,7 @@ class CreateTokoIkanRequest
     {
         return $this->nama;
     }
-    public function getdeskripsi(): string
+    public function getDeskripsi(): string
     {
         return $this->deskripsi;
     }
